@@ -6,5 +6,5 @@
   4) Виузализировать данные
 
 В ходе использовались:
-  Microsoft SQL Server Management Studio
+  Microsoft SQL Server Management Studio,
   PowerBI
