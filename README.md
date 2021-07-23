@@ -7,4 +7,5 @@
 
 В ходе использовались:
   Microsoft SQL Server Management Studio,
-  PowerBI
+  PowerBI,
+  Transact-SQL
